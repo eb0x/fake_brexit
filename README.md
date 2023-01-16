@@ -1,4 +1,4 @@
-# fake_brexit
+# Twitter Data Retrieval -- fake_brexit
 
 This pair of matched applications retrieves tweets using the Twitter API and saved results into a SQLite DB.
 
