@@ -1,4 +1,4 @@
-#This app collects twwets into a SQLITE DB. It is single user and so needs twitter Consumer and Access keys. 
+#This app collects tweets into a SQLITE DB. It is single user and so needs twitter Consumer and Access keys. 
 # (Never save keys in a public place so these are kept in separate file)
 #This tweepy Twitter app is called fake brexit as it is designed to collect tweets around the brexit 
 #topic looking for fake news. 
